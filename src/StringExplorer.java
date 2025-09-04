@@ -56,7 +56,8 @@ public class StringExplorer
 
 
       // substring
-      
+      System.out.println("SUBSTRING PRACTICE");
+      System.out.println(sample.substring(0, sample.length()-10));
       
       // equals
 
